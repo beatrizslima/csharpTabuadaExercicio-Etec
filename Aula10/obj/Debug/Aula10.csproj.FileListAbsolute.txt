@@ -1,0 +1,10 @@
+C:\Users\Laboratorio-Info\source\repos\Aula10\Aula10\bin\Debug\Aula10.exe.config
+C:\Users\Laboratorio-Info\source\repos\Aula10\Aula10\bin\Debug\Aula10.exe
+C:\Users\Laboratorio-Info\source\repos\Aula10\Aula10\bin\Debug\Aula10.pdb
+C:\Users\Laboratorio-Info\source\repos\Aula10\Aula10\obj\Debug\Aula10.csproj.AssemblyReference.cache
+C:\Users\Laboratorio-Info\source\repos\Aula10\Aula10\obj\Debug\Aula10.FormPrincipal.resources
+C:\Users\Laboratorio-Info\source\repos\Aula10\Aula10\obj\Debug\Aula10.Properties.Resources.resources
+C:\Users\Laboratorio-Info\source\repos\Aula10\Aula10\obj\Debug\Aula10.csproj.GenerateResource.cache
+C:\Users\Laboratorio-Info\source\repos\Aula10\Aula10\obj\Debug\Aula10.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio-Info\source\repos\Aula10\Aula10\obj\Debug\Aula10.exe
+C:\Users\Laboratorio-Info\source\repos\Aula10\Aula10\obj\Debug\Aula10.pdb
